@@ -1,10 +1,10 @@
-# CSS "League"
+# CSS "League of Legends : Champions"
 
 > HTML/CSS exercise given at HEPL
 
 * * *
 
-**CSS "League"** is an educational project, which will be used for `HTML`/`CSS` courses.
+**CSS "League of Legends : Champions"** is an educational project, which will be used for `HTML`/`CSS` courses.
 
 **Note:** the school where the course is given, the [HEPL](http://www.provincedeliege.be/hauteecole) from Liège, Belgium, is a french-speaking school. From this point, the instruction will be in french. Sorry.
 
